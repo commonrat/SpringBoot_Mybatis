@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.demo.controller.QuickController",
+      "sourceType": "com.example.demo.controller.QuickController"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.controller.QuickController",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.controller.QuickController"
+    }
+  ],
+  "hints": []
+}
